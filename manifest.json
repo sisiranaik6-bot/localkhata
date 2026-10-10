@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Local Khata",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Local Khata",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "localkhata"
+}
